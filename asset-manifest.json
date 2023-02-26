@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yilan/static/css/main.fb0a4ad3.css",
+    "main.js": "/Yilan/static/js/main.9494a728.js",
+    "static/js/787.5fbed3c2.chunk.js": "/Yilan/static/js/787.5fbed3c2.chunk.js",
+    "static/media/yilan.png": "/Yilan/static/media/yilan.a7d510ab23b9b07618eb.png",
+    "index.html": "/Yilan/index.html",
+    "main.fb0a4ad3.css.map": "/Yilan/static/css/main.fb0a4ad3.css.map",
+    "main.9494a728.js.map": "/Yilan/static/js/main.9494a728.js.map",
+    "787.5fbed3c2.chunk.js.map": "/Yilan/static/js/787.5fbed3c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb0a4ad3.css",
+    "static/js/main.9494a728.js"
+  ]
+}
