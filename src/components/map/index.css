@@ -1,0 +1,54 @@
+.yilan_map {
+    position: relative;
+    background-image: url(yilan.png);
+    width: 785px;
+    height: 894px;
+    background-repeat: no-repeat;
+    margin: 0 5px 5px 0;
+}
+.blocks {
+    position: absolute;
+    /* background-color: rgb(83, 82, 143); */
+    width: 0;
+    height: 0;
+    border-width: 20px 8px 0px 8px;
+    border-style: solid;
+    border-color:rgb(146, 44, 116) transparent transparent;
+    opacity: 0.7;
+    font-size: 10px;
+    font-weight: bold;
+    color: rgb(153, 5, 5);
+    white-space: nowrap;
+}
+
+.blocks:hover{
+    border-color:rgb(38, 33, 110) transparent transparent;
+    transform: scale(1.2,1.2);
+}
+
+.photo {
+    width: 200px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.place_info {
+    font-size: 20px;
+    color:white;
+    font-weight: bold;
+    border-left: white solid 1px;
+    margin: 0 5px 0;
+    padding: 5px;
+}
+
+.place_image {
+    /* display: flex;
+    flex-wrap: wrap; */
+    width: 630px;
+}
+
+.line {
+    width: 100%;
+    border: white solid 1px;
+    margin-bottom: 5px;
+}

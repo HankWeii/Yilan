@@ -1,0 +1,33 @@
+.popup{
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.popup-inner{
+    position: relative;
+    padding: 32px 0 30px 32px;
+    width: 100%;
+    max-width: 640px;
+    background-color: #282c34;
+    top: 0;
+    right: 0;
+    border: white solid 2px;
+    border-radius: 30px;
+}
+  
+.popup-inner .dd{
+    position: absolute;
+    top: 16px;
+    right: 16px;
+}
+
+.modal_image {
+    width: 600px;
+}

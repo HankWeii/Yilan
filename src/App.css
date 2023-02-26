@@ -1,0 +1,23 @@
+.outer {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  min-height: 900px;
+  min-width: 785px;
+}
+
+.inner {
+  border: 1px solid white;
+  width: 80vw;
+  min-height: 900px;
+  min-width: 785px;
+  padding: 5px 5px 0;
+}
+
+/* @media screen and (max-width: 760px){
+  .inner{
+    width: 100vw;
+    height: 100vh;
+    border: 0 solid white;
+  }
+} */
